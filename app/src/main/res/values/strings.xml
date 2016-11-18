@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCC Course Finder</string>
+    <string name="hello_courses">Hello OCC Courses!</string>
+    <string name="filter_button_text">Filter</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="select_instructor">[Select Instructor]</string>
+</resources>
